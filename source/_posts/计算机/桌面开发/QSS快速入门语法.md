@@ -10,7 +10,6 @@ comments: true
 share: true
 copyright: true
 donate: false
-prismjs: default
 categories: 计算机
 tags: [GUI开发,QT6,跨平台桌面开发,QSS]
 mathjax: true

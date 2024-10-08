@@ -10,9 +10,8 @@ comments: true
 share: true
 copyright: true
 donate: false
-prismjs: default
 categories: 计算机
-tags: [树莓派,MTI,ubuntu,ros]
+tags: [树莓派,MTI,Ubuntu,Ros]
 mathjax: true
 date: 2022-04-18 20:41:54
 ---

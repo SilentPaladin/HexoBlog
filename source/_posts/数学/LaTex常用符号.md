@@ -1,5 +1,9 @@
 ---
 title: LaTex常用符号
+date: 2022-04-18 20:59:21
+swiper: false
+swiperImg:
+swiperDesc:
 img: https://cdn.pixabay.com/photo/2022/03/06/06/42/flowers-7050948_960_720.jpg
 excerpt: 常见和非常见的数学符号与LaTex代码之间对应关系
 top: false
@@ -10,11 +14,13 @@ comments: true
 share: true
 copyright: true
 donate: false
-prismjs: default
+bgImg:
+bgImgTransition:
+bgImgDelay:
 categories: 数学
 tags: [LaTex,数学,数学公式符号]
 mathjax: true
-date: 2022-04-18 20:59:21
+imgTop: true
 ---
 
 # LaTex常用符号

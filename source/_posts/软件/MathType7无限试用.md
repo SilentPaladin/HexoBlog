@@ -10,7 +10,6 @@ comments: true
 share: true
 copyright: true
 donate: false
-prismjs: default
 categories: 计算机
 tags: [软件破解,MathType,数学软件]
 mathjax: true

@@ -10,7 +10,6 @@ comments: true
 share: true
 copyright: true
 donate: false
-prismjs: default
 categories: 计算机
 tags: [Node.js,前端,后端,JavaScript]
 mathjax: true
@@ -728,19 +727,19 @@ YAML是一种标记语言，文件名为`.yaml`
 
 * 数据类型
 
-| `type` | `format`| 评论 |
-| --- | --- | --- |
-| `integer` | `int32` | 有符号 32 位 |
-| `integer` | `int64` | 有符号 64 位 (a.k.a long) |
-| `number` | `float` |  |
-| `number` | `double` |  |
-| `string` |  |  |
-| `string` | `byte` | base64 编码字符 |
-| `string` | `binary` | 任何八位字节序列 |
-| `boolean` |  |  |
-| `string` | `date` | 由`full-date`定义 [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14) |
-| `string` | `date-time` | 由`date-time`定义 [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14) |
-| `string` | `password` | 提示 UI 以隐藏输入 |
+| `type`    | `format`    | 评论                                                                                        |
+| --------- | ----------- | ------------------------------------------------------------------------------------------- |
+| `integer` | `int32`     | 有符号 32 位                                                                                |
+| `integer` | `int64`     | 有符号 64 位 (a.k.a long)                                                                   |
+| `number`  | `float`     |                                                                                             |
+| `number`  | `double`    |                                                                                             |
+| `string`  |             |                                                                                             |
+| `string`  | `byte`      | base64 编码字符                                                                             |
+| `string`  | `binary`    | 任何八位字节序列                                                                            |
+| `boolean` |             |                                                                                             |
+| `string`  | `date`      | 由`full-date`定义 [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14) |
+| `string`  | `date-time` | 由`date-time`定义 [RFC3339](https://xml2rfc.ietf.org/public/rfc/html/rfc3339.html#anchor14) |
+| `string`  | `password`  | 提示 UI 以隐藏输入                                                                          |
 
 > URL中的相对引用
 

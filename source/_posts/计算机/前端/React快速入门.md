@@ -10,7 +10,6 @@ comments: true
 share: true
 copyright: true
 donate: false
-prismjs: default
 categories: 计算机
 tags: [前端,React,JSX,TSX,JavaScript,TypeScript]
 mathjax: true

@@ -7,17 +7,9 @@ onlyTitle: true
 
 博主: SilentPaladin | 性别: 男 | 邮箱: CumerZhang@Gmail.com
 
-## 我的书籍
+## 我的Github
 
-{% sitegroup %}
-    {% site Example, url=http://www.baidu.com, screenshot=https://pic4.zhimg.com/v2-7fcb0d73e1d90788ccf136e22ba7b1bd_r.jpg, avatar=https://pic4.zhimg.com/80/v2-45eb5749949e7f90a5c788f9bc5721ef_1440w.jpg, description=这是描述 %}
-{% endsitegroup %}
-
-## 我的社交账号
-
-<div style="display: flex;">
-    {% btn center cool-2, Example, https://github.com, fa-solid fa-user %}
-</div>  
+{% ghcard SilentPaladin %}
 
 ## 我的技能
 
@@ -31,31 +23,28 @@ onlyTitle: true
 {% progress 70 warning C %}
 {% progress 70 primary C# %}
 {% progress 70 primary JavaScript %}
+{% progress 30 primary Go %}
 {% progress 30 primary SQL %}
 {% progress 70 primary MATLAB %}
 {% progress 70 primary Rust %}
-{% progress 50 primary .NET %}
-{% progress 50 primary Qt %}
-{% progress 10 primary Django %}
-{% progress 50 primary NumPy %}
-{% progress 50 primary Pandas %}
-{% progress 50 primary PyTorch %}
+{% progressCircle 50 info  .NET %}
+{% progressCircle 50 info  Qt %}
+{% progressCircle 10 info  Django %}
+{% progressCircle 50 info  NumPy %}
+{% progressCircle 50 info  Pandas %}
+{% progressCircle 50 info  PyTorch %}
 </div>
 
-## 其他
-
-{% linkgroup %}
-    {% link Example, http://www.baidu.com, https://pica.zhimg.com/80/v2-970dd5538f106dd6be064c4eafc01c36_1440w.webp %}
-{% endlinkgroup %}
-
-## 我的游戏
+## 我玩的游戏
 
 {% gallery %}
-    ![王者荣耀](https://pic2.zhimg.com/v2-abb2c12e9fbe8dda1993f7cd5d149159_b.jpg)
+
+![王者荣耀](https://th.bing.com/th/id/OIP.orl2ANXnXWlBJ9Kmz9-NQQHaHa?w=172&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![和平精英](https://th.bing.com/th/id/OIP.E-WZk2SDmAo3wlxl-T27wwHaHa?w=204&h=204&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![英雄联盟](https://th.bing.com/th/id/OIP.tr2ni7LAVWiQ6ZGJ7mx8-AHaHx?w=173&h=182&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![Dota2](https://th.bing.com/th/id/OIP.z75-hGcZatkX0BUjEClJ3gHaEK?w=295&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![CS:GO](https://th.bing.com/th/id/OIP.h2BzSMNvbXp_CGHNMa85DwHaEo?w=289&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![我的世界](https://th.bing.com/th/id/OIP.6qT3wmQjCgy3SRW7Oax78QHaEK?w=312&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+![命运方舟](https://th.bing.com/th/id/OIP.p0xwniJfGjAL0ODaEkevwgHaDe?w=343&h=164&c=7&r=0&o=5&dpr=1.5&pid=1.7)
+
 {% endgallery %}
-
-## 我的相册
-
-{% swiper %}
-    ![Example](https://pic3.zhimg.com/80/v2-7cfc909ebe8d83683909846edd6b5232_1440w.webp "http://www.baidu.com")
-{% endswiper %}

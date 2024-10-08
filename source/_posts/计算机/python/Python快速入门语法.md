@@ -18,8 +18,7 @@ bgImg:
 bgImgTransition:
 bgImgDelay:
 categories: 计算机
-prismjs: default
-tags: [Python,编程语言,编程语法]
+tags: [Python,编程语言]
 mathjax: true
 imgTop: true
 ---
@@ -535,8 +534,8 @@ def sum(num1, num2):
 | cmp(item1, item2) | 比较两个值，-1 小于/0 相等/1 大于 | Python 3.x 取消了 cmp 函数  |
 
 **切片**:
-| 描述  | Python 表达式 | 结果 | 支持的数据类型 |
-| :---: | ------------- | ---- | -------------- |
+| 描述  | Python 表达式      | 结果    | 支持的数据类型     |
+| :---: | ------------------ | ------- | ------------------ |
 | 切片  | "0123456789"[::-2] | "97531" | 字符串、列表、元组 |
 
 **运算符**:

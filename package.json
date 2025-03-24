@@ -6,16 +6,13 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo serve"
   },
   "hexo": {
     "version": "7.3.0"
   },
   "dependencies": {
-    "@myriaddreamin/typst-ts-node-compiler": "0.5.5-rc4",
-    "@myriaddreamin/typst-ts-renderer": "0.5.5-rc6",
-    "@myriaddreamin/typst.ts": "0.5.5-rc6",
-    "hexo": "^7.0.0",
+    "hexo": "^7.3.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
@@ -24,11 +21,10 @@
     "hexo-generator-tag": "^2.0.0",
     "hexo-permalink-pinyin": "^1.1.0",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.0.0",
-    "hexo-renderer-stylus": "^3.0.0",
-    "hexo-renderer-typst": "0.5.5-rc4",
+    "hexo-renderer-marked": "^6.3.0",
+    "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0",
+    "hexo-theme-landscape": "^1.1.0",
     "hexo-wordcount": "^6.0.1"
   }
 }

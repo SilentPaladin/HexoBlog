@@ -196,20 +196,7 @@ date: 2024-10-06 13:37:57
     {% cell 1. Kaleidoscope： Kaleidoscope 简介和 Lexer — LLVM 19.0.0git 文档 --- 1. Kaleidoscope: Kaleidoscope Introduction and the Lexer — LLVM 19.0.0git documentation, https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html, https://llvm.org/favicon.ico %}
     {% cell Lv1.3. 解析 main 函数 - 北京大学编译实践课程在线文档 | 北大编译实践在线文档, https://pku-minic.github.io/online-doc/#/lv1-main/parsing-main, https://pku-minic.github.io/favicon.ico %}
 {% endbtns %}
- 
-## 漫画
-{% btns circle grid4 %}
-    {% cell Netflav - 主頁 / Home, https://netflav.com/, https://netflav.com/favicon.ico %}
-    {% cell 免費A漫 - 禁漫天堂, https://18comic.org/, https://18comic.org/favicon.ico %}
-    {% cell 色漫網 - 免費H漫, 精品A漫，禁漫天堂, https://www.cartoon18.com/, https://www.cartoon18.com/favicon.ico %}
-    {% cell Hanime1.me - H動漫/裏番/線上看, https://hanime1.me/, https://hanime1.me/favicon.ico %}
-    {% cell Pronhub色情片 | Pornhub.com, https://cn.pornhub.com/video/search?search=pronhub, https://cn.pornhub.com/favicon.ico %}
-    {% cell 免費成人視頻 - XVIDEOS.COM, https://www.xvideos.com/, https://www.xvideos.com/favicon.ico %}
-    {% cell 在线里番 - ACG盒子, https://www.acgbox.link/q/zaixianlifan, https://www.acgbox.link/favicon.ico %}
-    {% cell 女优大全 - 男人团, http://abc.nanrenvip3.cc/nvyouku/1-0-0-0-0-0.html, http://abc.nanrenvip3.cc/favicon.ico %}
-    {% cell 琉璃神社★分享动漫快乐 琉璃神社APP 琉璃app, https://acg.gy/?lang=2021, https://acg.gy/favicon.ico %}
-{% endbtns %}
- 
+
 ## 其他
 {% btns circle grid4 %}
     {% cell YGOPro AI脚本教程（译文） - 简书, https://www.jianshu.com/p/762d78417576, https://www.jianshu.com/favicon.ico %}
